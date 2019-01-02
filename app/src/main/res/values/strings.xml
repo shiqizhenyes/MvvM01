@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MvvM01</string>
+    <string name="name_label">name</string>
+    <string name="last_name_label">last name</string>
+    <string name="like_label">likes</string>
+    <string name="like">like</string>
+</resources>
